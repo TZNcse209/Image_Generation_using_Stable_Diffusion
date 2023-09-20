@@ -28,4 +28,8 @@
   - Changing the scheduler
   - Image to image "editing" (InstructPix2pix)
 # Part 5: Inpainting
+  - Installing the libraries (accelerate transformers ftfy bitsandbytes==0.35.0 gradio natsort safetensors xformers)
+  - Creating the prompt
+  - Exchanging the objects
+  - Comparing the results (Other image, Generating multiple images)
 # Part 6: ControlNet
