@@ -33,3 +33,6 @@
   - Exchanging the objects
   - Comparing the results (Other image, Generating multiple images)
 # Part 6: ControlNet
+  - Installing the libraries (accelerate transformers xformers)
+  - Generating images using edges (ControlNet model + Canny Edge, Detecting edges using Canny Edge, fine-tuned model)
+  - Generating images using poses
